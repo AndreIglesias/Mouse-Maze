@@ -1,0 +1,4 @@
+HOLA 217 189 50 laberintos/randomMazes.txt
+Ratoncito 229 184 94 laberintos/randomMazes.txt
+daniel 83 406 110 laberintos/randomMazes.txt
+HOLA 292 190 120 laberintos/randomMazes.txt
