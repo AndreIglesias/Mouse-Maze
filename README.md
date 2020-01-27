@@ -11,7 +11,7 @@ Mouse-Maze es un proyecto en C++/SDL2 donde un ratón debe resolver cualquier la
 
 ![Alt text](images/scrot4.png?raw=true "elegir tema")
 
-## Examples
+## Ejemplos
 
 ### Modo manual
 ![Alt text](images/scr3.png?raw=true "modo manual")
