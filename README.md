@@ -3,6 +3,8 @@
 Mouse-Maze es un proyecto en C++/SDL2 donde un ratón debe resolver cualquier laberinto resoluble.
 
 ### Para consultar el [manual](documentacion/manual.pdf)
+![Alt text](images/maze.gif?raw=true "maze")
+![Alt text](images/maze2.gif?raw=true "maze2")
 
 ![Alt text](images/login.png?raw=true "login")
 
